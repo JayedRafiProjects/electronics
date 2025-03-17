@@ -10,4 +10,4 @@ Instructons:
 ![Circuit diagram](https://github.com/JayedRafiProjects/electronics/blob/main/Humidity%2C%20Temperature%20%26%20Pressure%20(BME280)%20%2B%20Rasberry%20Pi%20Pico/circuit%20diagram.png)
 
 Reference:
-
+https://github.com/robert-hh/BME280/tree/master
