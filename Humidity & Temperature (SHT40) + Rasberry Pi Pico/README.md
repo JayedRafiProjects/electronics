@@ -1,5 +1,8 @@
 # Humidity & Temperature (SHT40) + Rasberry Pi Pico
 
+Instructons:
+- Upload lib/sht4x.py in Pico W.
+- Run the main.py
 
 ![Circuit diagram](https://github.com/JayedRafiProjects/electronics/blob/main/Humidity%20%26%20Temperature%20(SHT40)%20%2B%20Rasberry%20Pi%20Pico/circuit%20diagram.png)
 
