@@ -1,5 +1,8 @@
 # Humidity & Temperature (SHT40) + Rasberry Pi Pico
 
+Sensor data:
+https://www.adafruit.com/product/4885
+
 Instructons:
 - Upload lib/sht4x.py in Pico W.
 - Run the main.py
