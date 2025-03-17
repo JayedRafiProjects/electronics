@@ -7,7 +7,7 @@ Instructons:
 - Upload lib/pmsa003i.py in Rasberry Pi Pico.
 - Run the main.py
 
-![Circuit diagram]([https://github.com/JayedRafiProjects/electronics/blob/main/Humidity%20%26%20Temperature%20(SHT40)%20%2B%20Rasberry%20Pi%20Pico/circuit%20diagram.png](https://github.com/JayedRafiProjects/electronics/blob/main/Air%20quality%20(PMSA003I)%20%2B%20Rasberry%20Pi%20Pico/circuit%20diagram.png))
+![Circuit diagram](https://github.com/JayedRafiProjects/electronics/blob/main/Air%20quality%20(PMSA003I)%20%2B%20Rasberry%20Pi%20Pico/circuit%20diagram.png)
 
 Reference: 
 https://github.com/jposada202020/MicroPython_SHT4X/tree/master
