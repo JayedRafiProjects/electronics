@@ -11,5 +11,6 @@ Hey, this repository has some cool electronic projects that I have used / learne
 - Magnetometer + Rasberry Pi Pico
 - Phototransistor + Rasberry Pi Pico
 - Ultrasonic Sensor (HC-SR04) + Rasberry Pi Pico
+- Ultrasonic Sensor (HC-SR04) + DISPLAY + Rasberry Pi Pico
 - Soil Moisture Sensor + Rasberry Pi Pico 
 - Piezo buzzer + Rasberry Pi Pico
